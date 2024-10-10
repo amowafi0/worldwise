@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "d0fd",
+      "cityName": "Gamasa",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-10-06T21:08:29.827Z",
+      "notes": "الساحل بتاعي😂😂",
+      "position": {
+        "lat": "31.436200414900117",
+        "lng": "31.544923677576683"
+      }
+    },
+    {
+      "id": "d0e1",
+      "cityName": "Al Mansurah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-10-07T17:50:13.362Z",
+      "notes": "C",
+      "position": {
+        "lat": "31.042998888254676",
+        "lng": "31.387681952079117"
+      }
+    },
+    {
+      "id": "274a",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-07T17:51:34.585Z",
+      "notes": "MMMM",
+      "position": {
+        "lat": "48.83587945151997",
+        "lng": "2.384051211928609"
+      }
+    }
+  ]
+}
